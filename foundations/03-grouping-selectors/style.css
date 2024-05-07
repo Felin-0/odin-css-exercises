@@ -1,0 +1,14 @@
+.first{
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: bold;
+}
+.second{
+    background-color: #ffff00;
+}
+.font-style.first,/*used combinators and grouping*/
+.font-style.second
+{
+    font-size: 28px;
+    font-style: Helvetica, "Times New Roman", sans-serif;
+}
