@@ -6,7 +6,7 @@
 .second{
     background-color: #ffff00;
 }
-.font-style.first,/*used combinators and grouping*/
+.font-style.first,/*used chaining and grouping*/
 .font-style.second
 {
     font-size: 28px;
